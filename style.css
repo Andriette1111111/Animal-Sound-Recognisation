@@ -1,0 +1,40 @@
+body{
+    background-color: lawngreen;
+    font-family: "Tac One", sans-serif;
+}
+#start_btn{
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    border-radius: 30px;
+    font-family: "Butterfly Kids", cursive;
+    margin-top: 30px;
+    letter-spacing: 2px;
+}
+#footer_div{
+    position: fixed;
+    color: blueviolet;
+    bottom: 0%;
+    text-align: center;
+    width: 100%;
+    line-height: 7px;
+    font-weight: bold;
+    font-family: Caprasimo;
+    text-shadow: 10px 10px 10px color( rgba(255, 0, 0, 0) rgba(0, 128, 0, 0) rgba(0, 0, 255, 0));
+}
+.header_div{
+    background-color: rgb(226, 144, 43);
+    
+}
+hr{
+    height: 5px;
+    background-color: white;
+}
+#info{
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: "Butterfly Kids", cursive;
+    font-size: 14px;
+}
+h1{
+    font-size: 60px;
+}
